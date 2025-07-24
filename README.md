@@ -72,14 +72,7 @@ dfx canister --network ic info ridesharing_frontend
 - **Wallet Integration Bugs** – Debugged Plug authentication issues.
 - **Mainnet Deployment Issues** – Resolved identity and permission errors.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
-## 🤝 Contributors
-
-- **Support** – Ashutosh and Arpit 
-
-- 🌐 Website: https://w2lgq-ayaaa-aaaai-q3vvq-cai.icp0.io/
 
 Turn **Rides into Opportunities** with **Instant Carpool** 🚗💨
 
