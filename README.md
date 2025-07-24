@@ -25,11 +25,7 @@ Traditional ride-sharing platforms charge high fees and rely on central authorit
 - Install **Node.js** & **npm**
 - Install **Plug Wallet** (if using Plug authentication)
 
-### 2️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-repo/instant-carpool.git
-cd instant-carpool
-```
+
 
 ### 3️⃣ Start the Local ICP Network
 ```bash
